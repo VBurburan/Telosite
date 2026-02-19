@@ -1,4 +1,4 @@
-import logoImg from "figma:asset/a215cb19170530800e64f47d274efe834e88632c.png";
+import logoImg from "const logoImg = "/telo-logo.png";
 
 export function TeloLogo({ className = "h-10", variant = "dark" }: { className?: string; variant?: "dark" | "light" }) {
   return (
