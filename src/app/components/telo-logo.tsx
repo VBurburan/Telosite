@@ -1,4 +1,4 @@
-import logoImg from "const logoImg = "/telo-logo.png";
+const logoImg = "/telo-logo.png";
 
 export function TeloLogo({ className = "h-10", variant = "dark" }: { className?: string; variant?: "dark" | "light" }) {
   return (
